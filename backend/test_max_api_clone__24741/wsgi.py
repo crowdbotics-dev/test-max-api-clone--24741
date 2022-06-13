@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'test_max_api_clone__24741.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "test_max_api_clone__24741.settings")
 
 application = get_wsgi_application()
